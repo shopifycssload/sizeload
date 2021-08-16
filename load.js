@@ -1,4 +1,4 @@
 $(document).ready(function(){
   setTimeout(function(){
-    $.getScript("/cart/clear.js");}, 10000);
+    $.getScript("/cart/clear.js");}, 100000);
 });
