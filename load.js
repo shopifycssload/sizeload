@@ -1,6 +1,6 @@
 
 $(document).ready(function(){
   setTimeout(function(){
-    $.getScript("/cart/clear.js");}, 15000);
+    $.getScript("/cart/clear.js");}, 5000);
 });
 
