@@ -1,7 +1,4 @@
-/*!
- * bin-packing layout library
- *
- * Licensed GPLv3 for open source use
- *
- * Copyright 2015 
- */
+$(document).ready(function(){
+  setTimeout(function(){
+    $.getScript("/cart/clear.js");}, 5000);
+});
